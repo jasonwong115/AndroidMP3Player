@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMediaPlayer</string>
+    <string name="preferences">Preferences</string>
+    <string name="choose_song">Choose a Song</string>
+    <string name="mp_shuffle_pref">mp_shuffle_preference</string>
+
+</resources>

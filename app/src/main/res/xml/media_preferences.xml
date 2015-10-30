@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Song Order Preferences" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/mp_shuffle_pref"
+            android:summary="play songs in random order"
+            android:title="Shuffle" />
+    </PreferenceCategory>
+</PreferenceScreen>
